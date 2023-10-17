@@ -1,0 +1,39 @@
+
+#display {
+    justify-content: center;
+    text-align: center;
+    font-family: cursive;
+    
+}
+h1{
+    justify-content: center;
+    text-align: center;
+   font-family: monospace;
+   color: #620889;
+}
+.Name{
+  place-items: center;
+  font-size: xx-large;
+  color: red;
+  
+}
+
+.card {
+    background: linear-gradient(to bottom,#64e095,#d1f1ee);
+    height:100%   ;
+    font-size: medium;
+    margin: 20px;
+    border: 2px solid blue;
+    padding: 20px;
+    gap: 20px;
+    text-align: center;
+    box-shadow: 1px rgba(7, 61, 119, 0.1);
+}
+.card-text{
+  color: blue;
+  font-weight: bolder;
+}
+
+
+
+
